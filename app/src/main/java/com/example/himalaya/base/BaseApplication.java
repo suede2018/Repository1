@@ -6,10 +6,7 @@ import com.ximalaya.ting.android.opensdk.constants.DTransferConstants;
 import com.ximalaya.ting.android.opensdk.datatrasfer.CommonRequest;
 
 public class BaseApplication extends Application {
-    int a=0;
-    int b=22;
-    int c=3;
-    int d=4;
+
     @Override
     public void onCreate() {
         super.onCreate();
