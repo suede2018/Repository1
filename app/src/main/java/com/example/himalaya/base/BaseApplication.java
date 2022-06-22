@@ -6,6 +6,16 @@ import com.ximalaya.ting.android.opensdk.constants.DTransferConstants;
 import com.ximalaya.ting.android.opensdk.datatrasfer.CommonRequest;
 
 public class BaseApplication extends Application {
+<<<<<<< Updated upstream
+=======
+    int a=0;
+    int b=22;
+    int c=3;
+    int d=4;
+    int aaaaa=1;
+
+    string s1="1";
+>>>>>>> Stashed changes
 
     @Override
     public void onCreate() {
