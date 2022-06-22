@@ -6,6 +6,7 @@ import com.ximalaya.ting.android.opensdk.constants.DTransferConstants;
 import com.ximalaya.ting.android.opensdk.datatrasfer.CommonRequest;
 
 public class BaseApplication extends Application {
+    int a=0;
     @Override
     public void onCreate() {
         super.onCreate();
