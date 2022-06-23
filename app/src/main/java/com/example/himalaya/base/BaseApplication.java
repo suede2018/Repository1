@@ -13,7 +13,8 @@ public class BaseApplication extends Application {
     int c=3;
     int d=4;
     int aaaaa=1;
-
+  int branch=1;
+  int branch2 =2;
     string s1="1";
 >>>>>>> Stashed changes
 
